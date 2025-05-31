@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Johany</h1>
 <h3 align="center">A passionate ML student from Bangladesh</h3>
 
